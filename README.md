@@ -1,12 +1,14 @@
 <div align="center">
 
-# Matheus Heberle
+# 👋 Olá, eu sou Matheus Heberle
 
-### Software Engineering Student · Backend · Web Development
+### Estudante de Engenharia de Software
 
-Estudante de **Engenharia de Software** interessado em desenvolvimento de software, arquitetura de sistemas, bancos de dados e construção de aplicações que resolvam problemas reais.
+Desenvolvendo aplicações web, sistemas backend e projetos voltados para resolução de problemas reais.
 
-Atualmente desenvolvendo projetos acadêmicos e pessoais utilizando tecnologias como **Python, JavaScript, React, PostgreSQL e .NET**.
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-matheusheberle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusheberle)
 
 </div>
 
@@ -15,50 +17,53 @@ Atualmente desenvolvendo projetos acadêmicos e pessoais utilizando tecnologias 
 ## 👨‍💻 Sobre mim
 
 - 🎓 Graduando em **Engenharia de Software**
-- 💻 Focado em desenvolvimento de software e aplicações web
-- 🧠 Interessado em **Backend, bancos de dados, arquitetura de software e IA aplicada**
-- 📚 Sempre buscando evoluir através de projetos práticos
-- 🛠️ Gosto de transformar ideias em aplicações funcionais
+- 💻 Interesse em **desenvolvimento backend, web e arquitetura de software**
+- 🗄️ Estudando e trabalhando com **bancos de dados relacionais**
+- 🤖 Explorando aplicações de **Inteligência Artificial em sistemas**
+- 🧩 Gosto de transformar problemas reais em projetos de software
+- 📚 Atualmente ampliando meus conhecimentos através de projetos acadêmicos e pessoais
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
-### 🎓 equivalencIA
+### 🎓 [equivalencIA](https://github.com/matheusheberle/equivalencIA)
 
-Sistema de apoio à **análise curricular e aproveitamento de disciplinas**, desenvolvido para auxiliar o processo de equivalência entre cursos e instituições.
+Sistema de apoio à **análise curricular e aproveitamento de disciplinas**.
 
-O sistema permite analisar históricos acadêmicos, matrizes curriculares e planos de ensino, utilizando regras de negócio e inteligência artificial para sugerir possíveis equivalências.
+O projeto busca auxiliar coordenadores acadêmicos na comparação entre históricos escolares, matrizes curriculares e planos de ensino, aplicando regras de negócio e inteligência artificial para sugerir possíveis equivalências.
 
-**Tecnologias**
+**Principais tecnologias:**
 
 `Python` · `Streamlit` · `PostgreSQL` · `Supabase`
-
-[![Repository](https://img.shields.io/badge/Repositório-equivalencIA-181717?style=for-the-badge&logo=github)](https://github.com/matheusheberle/equivalencIA)
 
 ---
 
 ### 🐄 Rebanho
 
-Aplicação **offline-first** voltada para gerenciamento de rebanhos, permitindo registrar lotes, acompanhar movimentações e manter os dados disponíveis mesmo sem conexão com a internet.
+Aplicação **offline-first** para gerenciamento de rebanho.
 
-O projeto utiliza armazenamento local e sincronização com banco de dados em nuvem.
+O sistema permite trabalhar com os dados mesmo sem conexão com a internet e sincronizá-los posteriormente com a nuvem.
 
-**Tecnologias**
+**Principais tecnologias:**
 
 `React` · `Vite` · `JavaScript` · `Dexie` · `IndexedDB` · `Supabase`
+
+> 🚧 Em desenvolvimento
 
 ---
 
 ### 🗂️ Organizador de Fotos e Vídeos
 
-Aplicação desenvolvida para automatizar a organização de arquivos de mídia.
+Aplicação para automatizar a organização de arquivos de mídia.
 
-O sistema identifica fotos e vídeos, analisa metadados, organiza arquivos por data e categoria e possui mecanismos para identificação de arquivos duplicados.
+O projeto identifica fotos e vídeos, utiliza informações dos arquivos para organizá-los e possui recursos planejados para tratamento de duplicados e catalogação.
 
-**Tecnologias**
+**Principais tecnologias:**
 
 `.NET` · `C#` · `xUnit`
+
+> 🚧 Em desenvolvimento
 
 ---
 
@@ -67,83 +72,63 @@ O sistema identifica fotos e vídeos, analisa metadados, organiza arquivos por d
 ### Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,cs,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,cs,html,css" alt="Linguagens" />
 </p>
 
-### Frameworks e ferramentas
+### Front-end e Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,dotnet,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs" alt="Tecnologias Web" />
 </p>
 
-### Banco de dados
+### Backend e Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=dotnet,postgres,supabase" alt="Backend e Banco de Dados" />
 </p>
 
-### Desenvolvimento
+### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Ferramentas" />
 </p>
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Engenharia de Software
-- Desenvolvimento Web
-- Programação Orientada a Objetos
-- Banco de Dados
-- Arquitetura de Software
-- APIs e aplicações Backend
-- Inteligência Artificial aplicada a sistemas
-- Desenvolvimento de aplicações offline-first
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusheberle&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusheberle&layout=compact&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Atividade
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=matheusheberle&hide_border=true" />
-
-</div>
-
----
-
-## 🌐 Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-matheusheberle-181717?style=for-the-badge&logo=github)](https://github.com/matheusheberle)
-
-<!--
-Quando quiser adicionar seu LinkedIn:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Heberle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
--->
-
-</div>
-
----
-
-<div align="center">
-
-### Construindo, aprendendo e evoluindo um projeto de cada vez.
-
-</div>
+```text
+Engenharia de Software
+├── Desenvolvimento Web
+├── Programação Orientada a Objetos
+├── Banco de Dados
+├── Arquitetura de Software
+├── APIs e Backend
+└── Inteligência Artificial aplicada a sistemas
 ```
+
+---
+
+## 🎯 Áreas de interesse
+
+- Desenvolvimento Backend
+- Desenvolvimento Web
+- Arquitetura de Software
+- Banco de Dados
+- Aplicações offline-first
+- Automação de processos
+- Inteligência Artificial aplicada a software
+
+---
+
+<div align="center">
+
+### 📫 Onde me encontrar
+
+[![GitHub](https://img.shields.io/badge/GitHub-matheusheberle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusheberle)
+
+<br><br>
+
+<sub>Construindo, aprendendo e evoluindo um projeto de cada vez.</sub>
+
+</div>
